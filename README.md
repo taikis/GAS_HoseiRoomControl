@@ -1,0 +1,2 @@
+# GAS_HoseiRoomControl
+某大学の部室使用申請書を自動で作ってくれるスクリプト
